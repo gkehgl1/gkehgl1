@@ -25,6 +25,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=lamula&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=lamula&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=lamula&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=lamula&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/React-red?style=flat-square&logo=react&color=000">
   </blockquote>
 </div>  
 
