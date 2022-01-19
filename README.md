@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=lamula&logo=visual%20studio&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-0078D4?style=lamula&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=lamula&logo=microsoft%20sql%20server&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=lamula&logo=vue.js&logoColor=white">
   </blockquote>
 </div>  
 
