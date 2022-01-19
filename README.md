@@ -27,6 +27,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Node.js-339933?style=lamula&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=lamula&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/React-red?style=flat-square&logo=react&color=000">
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=lamula&logo=visual%20studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio Code-0078D4?style=lamula&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=lamula&logo=microsoft%20sql%20server&logoColor=white">
   </blockquote>
 </div>  
 
