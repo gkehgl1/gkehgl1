@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </section>
 </div>
 
-<div>
+<div style="width:100%">
 <blockquote>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=lamula&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=lamula&logo=html5&logoColor=white">
