@@ -42,19 +42,31 @@ Here are some ideas to get you started:
 </div>  
 
 <h2>경력</h2>
-<h3>주식회사 레이시스</h3>
+<h3>레이시스</h3>
   <ul> 
     <li>
       담당업무 : Vue.js를 이용한 건물 관리 플랫폼(지키고, 현 Leyve)의 프론트엔드 담당 
     </li>
     <li>
-      상세내용 : React 기반의 컴포넌트 구조와 Redux를 이용한 상태관리 도입을 통한                     Front-End 설계
+      상세내용 : Vue 기반의 컴포넌트 구조와 Vuex의 상태관리 도입을 통한 Front-End 설계
     </li>
     <li>
       기간 : 2019년 7월 ~ 2019년 9월
     </li>
   </ul>
 
+<h3>와이즈엠시스템즈</h3>
+  <ul>
+    <li>
+      담당업무 : 자체 솔루션을 사용하여 공장내의 생산정보시스템(MES)을 관리 
+    </li>
+    <li>
+      상세내용 : C#, MS-SQL을 이용하여 자체 솔루션의 Winform기반 컴포넌트 화면수정, 고객사마다 다른 요구사항을 토대로 브라우저 프로그램 개발 및 작업자 단말기 화면 개발, 한 눈에 쉽게 알아볼 수 있게하는 모니터링 프로그램 개발
+    </li>
+    <li>
+      기간 : 2021년 1월 ~ 현재
+    </li>
+  </ul>
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=gkehgl1&show_icons=true)
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gkehgl1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/gkehgl1)
 
