@@ -41,6 +41,19 @@ Here are some ideas to get you started:
   </blockquote>
 </div>  
 
+<h2>경력</h2>
+<h3>주식회사 레이시스</h3>
+  <ul> 
+    <li>
+      담당업무 : Vue.js를 이용한 건물 관리 플랫폼(지키고, 현 Leyve)의 프론트엔드 담당 
+    </li>
+    <li>
+      상세내용 : React 기반의 컴포넌트 구조와 Redux를 이용한 상태관리 도입을 통한                     Front-End 설계
+    </li>
+    <li>
+      기간 : 2019년 7월 ~ 2019년 9월
+    </li>
+  </ul>
 
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=gkehgl1&show_icons=true)
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gkehgl1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/gkehgl1)
