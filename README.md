@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     설비의 생산수량을 카운팅하는 업무 위주
   </section>
 </div>
-
+<h2>보유기술</h2>
 <div style="width:100%">
   <blockquote>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=lamula&logo=dotnet&logoColor=white">
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Node.js-339933?style=lamula&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=lamula&logo=jquery&logoColor=white">
     <img src="https://img.shields.io/badge/React-red?style=flat-square&logo=react&color=000">
+    <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&color=000">
     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=lamula&logo=visual%20studio&logoColor=white">
     <img src="https://img.shields.io/badge/Visual Studio Code-0078D4?style=lamula&logo=visual%20studio%20code&logoColor=white">
     <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=lamula&logo=microsoft%20sql%20server&logoColor=white">
