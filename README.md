@@ -27,13 +27,8 @@ Here are some ideas to get you started:
 </div>
 <h2>보유기술</h2>
 <div style="width:100%">
-  <h3>프론트엔드</h3>
   <blockquote>
     <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&color=000">
-  </blockquote>
-  <h3>백엔드</h3>
-  <blockquote>
-    
   </blockquote>
   <h3>개발도구</h3>
    <blockquote>
