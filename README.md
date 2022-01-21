@@ -2,6 +2,7 @@
 
 <h2>보유기술</h2>
 <div style="width:100%">
+  <h3>프론트엔드</h3>
   <blockquote>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=lamula&logo=dotnet&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=lamula&logo=html5&logoColor=white">
@@ -14,6 +15,9 @@
     <img src="https://img.shields.io/badge/Visual Studio Code-0078D4?style=lamula&logo=visual%20studio%20code&logoColor=white">
     <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=lamula&logo=microsoft%20sql%20server&logoColor=white">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=lamula&logo=vue.js&logoColor=white">
+  </blockquote>
+  <h3>백엔드</h3>
+  <blockquote>
   </blockquote>
 </div>  
 
