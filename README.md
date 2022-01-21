@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   </section>
 </div>
 <h2>보유기술</h2>
+<h3>사용언어</h3>
 <div style="width:100%">
   <blockquote>
     <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&color=000">
