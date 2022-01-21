@@ -1,30 +1,5 @@
 ### Hi there 👋
 
-<!--
-**gkehgl1/gkehgl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div>
-  <section>
-    <h2>경력</h2>
-    <h4>C# 개발자입니다.</h4>
-    C#과 MS-SQL을 사용한 생산정보시스템을 관리한다. 
-    자체 개발한 솔루션의 컴포넌트들을 
-    
-    설비의 생산수량을 카운팅하는 업무 위주
-  </section>
-</div>
 <h2>보유기술</h2>
 <h3>사용언어</h3>
 <div style="width:100%">
