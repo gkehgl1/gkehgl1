@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=lamula&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=lamula&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=lamula&logo=jquery&logoColor=white">
-                               
   </blockqoute>
 <h2>경력</h2>
 <h3>와이즈엠시스템즈</h3>
@@ -54,9 +53,6 @@
     </li>
   </ul>
   
-![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=gkehgl1&show_icons=true)
-[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gkehgl1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/gkehgl1)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=gkehgl1)
 
 
