@@ -39,6 +39,8 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=lamula&logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/Javascript-ffb13b?style=lamula&logo=javascript&logoColor=white">
       <img src="https://img.shields.io/badge/jQuery-0769AD?style=lamula&logo=jquery&logoColor=white">
+      <img src="https://img.shields.io/badge/React-red?style=flat-square&logo=react&color=000">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=lamula&logo=Node.js&logoColor=white">
     </blockqoute>
 </div>
 <h2>경력</h2>
@@ -52,6 +54,43 @@
     </li>
     <li>
       기간 : 2021년 1월 ~ 현재
+    </li>
+  </ul>
+<h2>프로젝트 사항</h2>
+  <h3>이렌텍(인도) 유지보수</h3>
+  <ul>
+    <li>
+      소개 : 이렌텍 인도법인 MES 유지보수
+    </li>
+    <li>
+      기간 : 2021/08 ~ 현재
+    </li>
+    <li>
+      역할 : 고객사의 요구사항에 따라 MES Browser 프로그램 수정, 데이터 오류가 발생했을시 대응
+    </li>
+  </ul>
+  <h3>동진(러시아) 프로젝트</h3>
+  <ul>
+    <li>
+      소개 : 주식회사 동진 러시아 프로젝트 참여
+    </li>
+    <li>
+      기간 : 2021/05 ~ 현재
+    </li>
+    <li>
+      역할 : 고객사의 요구사항에 따라 MES Browser 프로그램, WBT 프로그램, 모니터링 프로그램 개발 및 오류사항이 있을 시 유지보수
+    </li>
+  </ul>
+  <h3>듀링 인천, 듀링 서산, 듀링플러스 유지보수</h3>
+  <ul>
+    <li>
+      소개 : 듀링 고객사 유지보수
+    </li>
+    <li>
+      기간 : 2020/06 ~ 2021/05
+    </li>
+    <li>
+      역할 : 고객사의 요구사항에 따라 MES Browser 프로그램 수정, WBT 프로그램, DAS 프로그램 수정, 데이터 오류가 발생했을시 대응
     </li>
   </ul>
   
