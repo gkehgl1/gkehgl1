@@ -1,5 +1,5 @@
 <h3>창의적인 생각으로 새로운 변화를 추구, 신기술 경향탐구와 협업심중시</h3>
-![KakaoTalk_20220125_150328886](https://user-images.githubusercontent.com/46754504/150921647-b4a4a95c-1e51-4f13-a05d-5f2232c42c5a.jpg)
+<img src="https://user-images.githubusercontent.com/46754504/150921647-b4a4a95c-1e51-4f13-a05d-5f2232c42c5a.jpg">
 
 <h2>보유기술</h2>
 <h3>사용언어</h3>
