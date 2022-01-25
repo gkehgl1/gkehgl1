@@ -1,4 +1,5 @@
-<h3 style="font-color=blue">창의적인 생각으로 새로운 변화를 추구, 신기술 경향탐구와 협업심중시</h3>
+<h3>창의적인 생각으로 새로운 변화를 추구, 신기술 경향탐구와 협업심중시</h3>
+![KakaoTalk_20220125_150328886](https://user-images.githubusercontent.com/46754504/150921647-b4a4a95c-1e51-4f13-a05d-5f2232c42c5a.jpg)
 
 <h2>보유기술</h2>
 <h3>사용언어</h3>
@@ -12,8 +13,15 @@
     <img src="https://img.shields.io/badge/Visual Studio Code-0078D4?style=lamula&logo=visual%20studio%20code&logoColor=white">
     <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=lamula&logo=microsoft%20sql%20server&logoColor=white">
   </blockquote>
-</div>  
-
+</div>
+<h3>사용해보았던&공부하고 있는 언어</h3>
+  <blockquote>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=lamula&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=lamula&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=lamula&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=lamula&logo=jquery&logoColor=white">
+                               
+  </blockqoute>
 <h2>경력</h2>
 <h3>와이즈엠시스템즈</h3>
   <ul>
