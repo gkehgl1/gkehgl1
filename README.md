@@ -32,13 +32,15 @@
     <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=lamula&logo=microsoft%20sql%20server&logoColor=white">
   </blockquote>
 </div>
-<h3>사용해보았던&공부하고 있는 언어</h3>
-  <blockquote>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=lamula&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=lamula&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=lamula&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=lamula&logo=jquery&logoColor=white">
-  </blockqoute>
+<div>
+  <h3>사용해보았던&공부하고 있는 언어</h3>
+    <blockquote>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=lamula&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=lamula&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/Javascript-ffb13b?style=lamula&logo=javascript&logoColor=white">
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=lamula&logo=jquery&logoColor=white">
+    </blockqoute>
+</div>
 <h2>경력</h2>
 <h3>와이즈엠시스템즈</h3>
   <ul>
