@@ -1,7 +1,5 @@
-<h3>창의적인 생각으로 새로운 변화를 추구, 신기술 경향탐구와 협업심중시</h3>
-<div style="width:">
-  <img src="https://user-images.githubusercontent.com/46754504/150921647-b4a4a95c-1e51-4f13-a05d-5f2232c42c5a.jpg" width="200" height="400">
-</div>
+<h3 style="text-align:center">창의적인 생각으로 새로운 변화를 추구, 신기술 경향탐구와 협업심중시</h3>
+<img src="https://user-images.githubusercontent.com/46754504/150921647-b4a4a95c-1e51-4f13-a05d-5f2232c42c5a.jpg" width="200" height="400">
 
 <h2>보유기술</h2>
 <h3>사용언어</h3>
