@@ -12,9 +12,6 @@
     이메일 : gkehgl2@naver.com
   </li>
   <li>
-    링크드인 : www.linkedin.com/in/gkehgl1
-  </li>
-  <li>
     연락처 : 010-8932-5179
   </li>
 </ul>
