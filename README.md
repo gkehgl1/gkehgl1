@@ -1,20 +1,6 @@
 <h2>소개</h2>
 <h3 style="text-align:center">창의적인 생각으로 새로운 변화를 추구, 신기술 경향탐구와 협업심중시</h3>
 <img src="https://user-images.githubusercontent.com/46754504/150921647-b4a4a95c-1e51-4f13-a05d-5f2232c42c5a.jpg" width="400" height="300">
-<ul>
-  <li>
-    이름 : 한동희
-  </li>
-  <li>
-    군복무여부 : 병장 만기전역
-  </li>
-  <li>
-    이메일 : gkehgl2@naver.com
-  </li>
-  <li>
-    연락처 : 010-8932-5179
-  </li>
-</ul>
 
 <h2>보유기술</h2>
 <h3>사용언어</h3>
